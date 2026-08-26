@@ -1,4 +1,4 @@
-# scenario-probe
+# Find How an AI Skill or Prompt Will Fail Before It Ships
 
 **Find out how your SKILL.md fails before a real session pays for it.**
 
