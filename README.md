@@ -50,11 +50,11 @@ npx skills add m1nga/scenario-probe
 
 ## Works well with
 
-- [`write-judge-prompt`](https://github.com/m1nga/write-judge-prompt) + [`validate-evaluator`](https://github.com/m1nga/validate-evaluator)
+- [`write-judge-prompt`](https://github.com/m1nga/write-judge-prompt/) + [`validate-evaluator`](https://github.com/m1nga/validate-evaluator/)
   — the probe's `traces.jsonl` is trace supply for products with no production traffic
   yet: failure clusters become judge criteria, then the judge gets calibrated.
   Wind-tunnel → judge → calibration is a pipeline.
-- [`product-experience-officer`](https://github.com/m1nga/product-experience-officer) — the cousin seat.
+- [`product-experience-officer`](https://github.com/m1nga/product-experience-officer/) — the cousin seat.
   A runnable product with a UI gets PEO; instruction text gets scenario-probe. They
   share the same honesty contract: a report with zero findings means the auditor sat
   in the author's chair.
@@ -96,7 +96,7 @@ Probed 7 scenarios across 4 personas · 3 fired correctly · 3 correctly stayed 
 
 Run on its own SKILL.md, it flagged that its description sits 17 characters under the 1024 loader cap — with the NOT-clauses last in line to be truncated. It got the same treatment as everything else.
 
-Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe)
+Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 
 ## Author
 
