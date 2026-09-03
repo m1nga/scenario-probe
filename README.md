@@ -1,4 +1,4 @@
-# Find How an AI Skill or Prompt Will Fail Before It Ships
+# AI Instruction Stress Test — Find Trigger and Behavior Failures Before Release
 
 **Find out how your SKILL.md fails before a real session pays for it.**
 
