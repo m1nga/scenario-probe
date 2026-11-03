@@ -119,3 +119,9 @@ Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 ## Author
 
 Built and maintained by [Ming](https://github.com/m1nga).
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+Instruction tests can reveal where a tool needs work; another person's experience can add something different. [Browse SideCourt](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=scenario-probe) to try shared projects or invite feedback on one of your own.
+<!-- sidecourt-referral:end -->
